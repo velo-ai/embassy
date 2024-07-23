@@ -367,7 +367,7 @@ where
         w.set_slewfast(false);
         w.set_ie(true);
         w.set_od(false);
-        w.set_pue(true);
+        w.set_pue(false);
         w.set_pde(false);
     });
 }
